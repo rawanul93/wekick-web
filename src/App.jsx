@@ -5,7 +5,7 @@ const App = () => {
 
   return (
     <div>
-      HELLOOOOO!!!!!!
+      WEKICK!!!
     </div>
   );
 
